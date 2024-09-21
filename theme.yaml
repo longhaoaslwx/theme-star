@@ -1,19 +1,19 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-modern-starter
+  name: theme-star
 spec:
-  displayName: Modern Starter
+  displayName: theme-star
   author:
     name: Halo
-    website: https://github.com/halo-dev
-  description: A development starter theme with Vite Ecosystem for Halo
+    website: https://www.halo.run
+  description: 一个星主题，造福你我他
   logo: https://www.halo.run/logo
   homepage: https://github.com/halo-dev/theme-modern-starter#readme
   repo: https://github.com/halo-dev/theme-modern-starter
   issues: https://github.com/halo-dev/theme-modern-starter/issues
-  settingName: "theme-modern-starter-setting"
-  configMapName: "theme-modern-starter-configMap"
+  settingName: "theme-star-setting"
+  configMapName: "theme-star-configMap"
   version: "1.0.0"
   requires: "2.0.0"
   license:
